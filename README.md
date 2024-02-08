@@ -1,4 +1,5 @@
-# Welcome to the Raspberry Pi 5 PWM Fan Control Installation!
+# Welcome to Fan_Control
+## the Active Cooler auotmatic controls for Raspberry Pi 5 PWM Active Cooler Fan!
 
 ## Introduction
 Hey there Raspberry Pi enthusiasts! Are you tired of your Pi overheating during those intense coding sessions or gaming marathons? Fear not, for we have the solution to keep your Pi cool and breezy!
