@@ -1,0 +1,11 @@
+[Unit]
+Description=PWM Fan Control Service
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/fan_control.sh
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
