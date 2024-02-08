@@ -6,7 +6,7 @@ Hey there Raspberry Pi enthusiasts! Are you tired of your Pi overheating during 
 
 ## What's Included
 - **fan_control.conf:** Customize your fan control settings to match your preferences.
-- **fan_control.sh:** The heart of the operation! This script adjusts the fan speed based on the temperature.
+- **fan_control.sh:** The heart of the operation! This script adjusts the fan speed based on the CPU temperature.
 - **fan_control.service:** Ensures that the fan control script runs automatically in the background.
 
 ## Installation Instructions
